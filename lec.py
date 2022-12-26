@@ -7,7 +7,7 @@
 #print (f)
 #print (not 2 in f)
 
-#s_odd = not f [0] % 2 # то есть мы обращаемся к цифре 1 и находим остаток от деления на 2
+# s_odd = not f [0] % 2 # то есть мы обращаемся к цифре 1 и находим остаток от деления на 2
 #print (is_odd)
 # def f(x):
 #     if x == 1:
@@ -21,8 +21,7 @@
 # # print (а[0])
 
 # for item in a:
-#     print (item)
-# dictionary  = {}
-# for к in dictionary.values ():
-colors = {'red', 'green', 'blue'}
-print(type(colors)) 
+#     print(item)
+# dictionary = {}
+# for к in dictionary.values():
+#     print(list1.pop())
